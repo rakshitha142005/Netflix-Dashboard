@@ -1,31 +1,31 @@
 # Netflix Dashboard
 
-## Project Overview
-Developed a multi-page Power BI dashboard to analyze Netflix content trends, genres, and distribution patterns.
+## Overview
+
+Created a Power BI dashboard to analyze Netflix content using data visualization techniques.
 
 ## Tools Used
-- Power BI
-- Excel
 
-## Dashboard Pages
+* Power BI
+* Power Query
+* DAX
 
-### 1. Overview Dashboard
-Provides a high-level summary of Netflix content.
+## Features
 
-### 2. Genre Analysis
-Analyzes the distribution of content across genres.
-
-### 3. Content Trends
-Shows content growth and trends over time.
+* Interactive filters
+* KPI cards
+* Genre analysis
+* Content trend analysis
 
 ## Skills Demonstrated
-- Data Cleaning
-- Data Transformation
-- DAX
-- Data Visualization
-- Dashboard Design
 
-## Files Included
-- Netflix_Overview_Dashboard.pbix
-- Netflix_Genre_Analysis.pbix
-- Netflix_Content_Trends.pbix
+* Data Cleaning
+* Data Transformation
+* DAX
+* Data Visualization
+
+## Files
+
+* Netflix_Overview_Dashboard.pbix
+* Netflix_Genre_Analysis.pbix
+* Netflix_Content_Trends.pbix
